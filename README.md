@@ -19,7 +19,7 @@ $ yarn add crypto-files
 Follow the following steps and you're good to go! Important:
 
 
-![alt text]()
+![alt text](http://www.thattoheath.st-helens.sch.uk/moodle/pluginfile.php/170/course/summary/encrypt-win8.png)
 
 
 ## Coding
