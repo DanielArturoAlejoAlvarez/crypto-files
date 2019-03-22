@@ -1,0 +1,15 @@
+{
+  "name": "crypto-files",
+  "version": "1.0.1",
+  "description": "Node Package Manager, Crypto File to encrypt all file.",
+  "main": "index.js",
+  "keywords": [
+    "Nodejs",
+    "NPM",
+    "crypto-file"
+  ],
+  "author": "Daniel Alejo Alvarez",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
