@@ -3,12 +3,16 @@
   "version": "1.0.1",
   "description": "Node Package Manager, Crypto File to encrypt all file.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielarturoalejoalvarez/crypto-files.git"
+  },
   "keywords": [
     "Nodejs",
     "NPM",
     "crypto-file"
   ],
-  "author": "Daniel Alejo Alvarez",
+  "author": "Daniel Alejo Alvarez  <yourmediasoft@gmail.com> (http://danapps.herokuapp.com/)",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {}
